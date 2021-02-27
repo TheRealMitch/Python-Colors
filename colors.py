@@ -4,7 +4,7 @@
 # TheRealMitch
 ######
 # Examples:
-# Print(Colors.Blink + Colors.Blink + "WARNING" + Colors.Full_Reset)
+# Print(Colors.Red + Colors.Blink + "WARNING" + Colors.Full_Reset)
 ######
 # Make sure to after using any color to Reset using Colors.Full_Reset
 ######
