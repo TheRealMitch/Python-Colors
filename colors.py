@@ -15,6 +15,7 @@ class Colors:
     """
     To print colorfull string in terminal
     """
+    
     # Reset
     Full_Reset      = '\033[0m'
     ResetBold       = "\033[21m"
@@ -25,6 +26,7 @@ class Colors:
     ResetHidden     = "\033[28m"
 
     # Features
+    Bold       = "\033[1m"
     Dim        = "\033[2m"
     Underlined = "\033[4m"
     Blink      = "\033[5m"
