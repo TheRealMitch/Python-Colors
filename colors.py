@@ -1,4 +1,4 @@
-# By using this module you can play/change the color of your print() function
+# By using this module you can play with/change the color of your print() function
 #
 ######
 # TheRealMitch
@@ -8,7 +8,6 @@
 ######
 # Make sure to after using any color to Reset using Colors.Full_Reset
 ######
-#
 
 
 
