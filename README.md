@@ -12,7 +12,7 @@ from replit import clear # pip3 install replit
 from time import sleep
 
 times = int(input("How many times do you want it to run? ")) # 12
-Sleep_times = float(input("Put the sleep time: ")) # 0.5
+Sleep_time = float(input("Put the sleep time: ")) # 0.5
 message = input("The message you need to print: ")
 
 warning_colors = [Colors.Red, Colors.Yellow]
