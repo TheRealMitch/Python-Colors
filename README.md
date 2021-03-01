@@ -1,5 +1,6 @@
 # Python-Colors
 ---
+Change the color of the print() function in Python 3. 
 ## Examples:
 ```python
 from colors import Colors
