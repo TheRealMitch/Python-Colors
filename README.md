@@ -37,5 +37,5 @@ print(background_blink)
 ```
 ---
 
-**Follow me**: [Github](https://github.com/TheRealMitch)
-**Watch me Sing -->** [Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- **Follow me**: [Github](https://github.com/TheRealMitch)
+- **Watch me Sing -->** [Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
