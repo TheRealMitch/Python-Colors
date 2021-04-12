@@ -1,11 +1,13 @@
 # Python-Colors
----
+
 Change the color of the print() function in Python 3.
 For terminals that support color.
+
 ## Examples:
+
 ```python
 from colors import Colors
-print("I" + Colors.Red + " Love " + Colors.Full_Reset + "You")
+print("I" + Colors.Red + Colors.Blink + " Love " + Colors.Full_Reset + "You")
 print(Colors.Yellow + Colors.Blink + "WARNING" + Colors.Full_Reset)
 # Do not forget the Colors.Full_Reset after using colors :)s :)
 ```
@@ -34,4 +36,6 @@ print(background)
 print(background_blink)
 ```
 ---
-**Follow me**: https://github.com/TheRealMitch
+
+**Follow me**: [Github](https://github.com/TheRealMitch)
+**Watch me Sing -->** [Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
