@@ -1,12 +1,14 @@
 # By using this module you can play with/change the color of your print() function
 #
 ######
-# TheRealMitch
+# R3veal
 ######
 # Examples:
 # Print(Colors.Red + Colors.Blink + "WARNING" + Colors.Full_Reset)
 ######
 # Make sure to after using any color to Reset using Colors.Full_Reset
+######
+# Follow me on Github: https://github.com/R3veal
 ######
 
 
